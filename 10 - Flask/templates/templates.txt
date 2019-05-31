@@ -1,1 +1,0 @@
-all the templates used in the project will  be placed here and served by flask
